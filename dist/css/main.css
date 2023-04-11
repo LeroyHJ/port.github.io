@@ -253,6 +253,16 @@
   align-items: center;
   text-align: center;
 }
+.projects__btns_github {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  display: grid;
+  align-items: center;
+  text-align: center;
+}
 .projects__btn {
   opacity: 0;
   color: #000;
